@@ -1,2 +1,2 @@
-# Algorithms-In-JS
+# algorithms-exercises
 Created with CodeSandbox
